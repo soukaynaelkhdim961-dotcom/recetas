@@ -1,2 +1,2 @@
-# recetas
-Mi primer proyecto con HTML, CSS y JavaScript
+# recipes
+My first full stack project with HTML, CSS y JavaScript.
